@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ortam ve Bağımlılıklar
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editör
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Kaydedilen Ekran / Çizim Görüntüleri
+air_canvas_*.png
